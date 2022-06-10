@@ -1,0 +1,5 @@
+O Git é um repositório online criado para versionar códigos de forma colaborativa.
+Ao invés de usar uma GUI, que é uma interface gráfica responsiva, O Git utiliza o CLI (Command line interface), a qual é bem semelhante ao prompt de comando do Windows.
+O Git pode ser versionado utilizando a SHA1 (Secure Hash Algorithm), a qual possui funções hash criptografadas pela NSA. Sua encriptação gera um conjunto de caracteres de 40 dígitos, os quais se modificam a qualquer alteração do documento.
+Os objetos internos do git são blobs, trees e commits.
+Ele é considerado um sistema distribuído seguro e utiliza chaves SSH e Tokens.
